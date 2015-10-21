@@ -1,7 +1,7 @@
 // Package metadata file for Meteor.js
 var packageName = 'aaronroberson:angular-strap';
 var where = 'client';
-var version = '2.3.3';
+var version = '2.3.4';
 var summary = 'AngularJS 1.2+ native directives AND templates for Bootstrap 3.';
 var gitLink = 'https://github.com/aaronroberson/angular-strap';
 var documentationFile = 'README.md';
